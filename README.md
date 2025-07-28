@@ -58,5 +58,5 @@ L’interface Swing permet de :
 ### 2. Cloner le projet
 
 ```bash
-git clone https://github.com/votre-utilisateur/DeliciousEats.git
-cd DeliciousEats
+git clone https://github.com/elyakoubibouchra/DelicousEats.git
+cd DelicousEats
