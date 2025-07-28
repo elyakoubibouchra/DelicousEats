@@ -1,17 +1,17 @@
-# 🍽️ DeliciousEats – Plateforme de Livraison de Nourriture avec JADE
+# 🍕 DeliciousEats – Plateforme de Livraison de Nourriture avec JADE
 
 **DeliciousEats** est une application Java simulant un système de livraison de nourriture basé sur des agents intelligents, développée avec le framework **JADE (Java Agent DEvelopment Framework)**.  
 Elle permet de simuler l’interaction entre un client, plusieurs restaurants, et un service de livraison, chacun représenté par un agent autonome.
 
 ---
 
-## 🎯 Objectif du projet
+##  Objectif du projet
 
 Ce projet académique vise à illustrer l’utilisation des systèmes multi-agents dans un contexte pratique. Il démontre comment plusieurs agents peuvent coopérer pour gérer une commande, proposer des offres, sélectionner la meilleure, et simuler un processus de livraison complet.
 
 ---
 
-## 🧠 Architecture multi-agents
+##  Architecture multi-agents
 
 - **ClientAgent** : Passe la commande et reçoit les propositions.
 - **DeliveryAgent** : Coordonne la communication entre le client et les restaurants.
@@ -20,7 +20,7 @@ Ce projet académique vise à illustrer l’utilisation des systèmes multi-agen
 
 ---
 
-## 🖥️ Interface utilisateur
+##  Interface utilisateur
 
 L’interface Swing permet de :
 - Entrer un plat à commander.
@@ -29,7 +29,7 @@ L’interface Swing permet de :
 
 ---
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 - Java 11+
 - JADE 4.6.0 (framework multi-agents)
@@ -38,17 +38,17 @@ L’interface Swing permet de :
 
 ---
 
-## 📸 Aperçu de l'application
+##  Aperçu de l'application
 
 | Écran de commande | Journal des étapes |
 |-------------------|--------------------|
 | ![Commande](interface.png) | ![Log](interface2.png) |
 
-> 📌 **Sniffer JADE** peut être utilisé pour observer les messages entre agents en temps réel.
+>  **Sniffer JADE** peut être utilisé pour observer les messages entre agents en temps réel.
 
 ---
 
-## ⚙️ Installation et exécution
+##  Installation et exécution
 
 ### 1. Prérequis
 
