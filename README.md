@@ -42,7 +42,7 @@ L’interface Swing permet de :
 
 | Écran de commande | Journal des étapes |
 |-------------------|--------------------|
-| ![Commande](screenshots/commande.png) | ![Log](screenshots/logs.png) |
+| ![Commande](interface.png) | ![Log](interface2.png) |
 
 > 📌 **Sniffer JADE** peut être utilisé pour observer les messages entre agents en temps réel.
 
